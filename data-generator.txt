@@ -1,0 +1,20 @@
+[
+  {
+    'repeat(20)': {
+      orderDate: '{{moment(this.date(new Date(2014, 0, 1), new Date())).format("LLLL")}}',
+      deliveryCountry: '{{random("Germany", "United Kingdom", "France", "Austria")}}',
+      manufacturer: '{{random("The Hipster Jeans Company", "Denzil Jeans", "Wrangled Jeans")}}',
+      gender: '{{random("M", "F")}}',
+      size: function (tags) {
+        var sizes = {
+          F: ['8', '10', '12', '14', '16'],
+          M: ['28/30', '30/30', '32/30', '34/30', '36/30']
+        };
+
+        return sizes[this.gender][tags.integer(0, 4)];
+      },
+      color: '{{random("Dark Blue", "Light Blue", "Red", "Yellow")}}',
+      style: '{{random("Relaxed", "Skinny", "Boot Cut")}}'
+  }
+  }
+]
