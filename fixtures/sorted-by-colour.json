@@ -1,0 +1,235 @@
+{
+  "sales": [
+    {
+      "orderDate": "Monday, October 31, 2016 8:42 AM",
+      "deliveryCountry": "United Kingdom",
+      "manufacturer": "Wrangled Jeans",
+      "gender": "F",
+      "size": "10",
+      "colour": "Yellow",
+      "style": "Skinny"
+    },
+    {
+      "orderDate": "Saturday, May 7, 2016 4:49 AM",
+      "deliveryCountry": "United Kingdom",
+      "manufacturer": "Wrangled Jeans",
+      "gender": "F",
+      "size": 12,
+      "colour": "Yellow",
+      "style": "Boot Cut"
+    },
+    {
+      "orderDate": "Thursday, June 16, 2016 4:13 PM",
+      "deliveryCountry": "France",
+      "manufacturer": "Denzil Jeans",
+      "gender": "M",
+      "size": "36/30",
+      "colour": "Yellow",
+      "style": "Boot Cut"
+    },
+    {
+      "orderDate": "Sunday, April 3, 2016 8:50 AM",
+      "deliveryCountry": "France",
+      "manufacturer": "The Hipster Jeans Company",
+      "gender": "M",
+      "size": "34/30",
+      "colour": "Yellow",
+      "style": "Relaxed"
+    },
+    {
+      "orderDate": "Friday, September 16, 2016 8:08 PM",
+      "deliveryCountry": "United Kingdom",
+      "manufacturer": "The Hipster Jeans Company",
+      "gender": "F",
+      "size": 10,
+      "colour": "Red",
+      "style": "Skinny"
+    },
+    {
+      "orderDate": "Friday, January 20, 2017 10:05 PM",
+      "deliveryCountry": "United Kingdom",
+      "manufacturer": "Denzil Jeans",
+      "gender": "M",
+      "size": "36/30",
+      "colour": "Red",
+      "style": "Relaxed"
+    },
+    {
+      "orderDate": "Sunday, May 1, 2016 11:34 AM",
+      "deliveryCountry": "Germany",
+      "manufacturer": "Wrangled Jeans",
+      "gender": "M",
+      "size": "30/30",
+      "colour": "Red",
+      "style": "Relaxed"
+    },
+    {
+      "orderDate": "Tuesday, February 16, 2016 6:11 PM",
+      "deliveryCountry": "Austria",
+      "manufacturer": "Wrangled Jeans",
+      "gender": "M",
+      "size": "36/30",
+      "colour": "Light Blue",
+      "style": "Skinny"
+    },
+    {
+      "orderDate": "Monday, January 11, 2016 7:25 AM",
+      "deliveryCountry": "United Kingdom",
+      "manufacturer": "Denzil Jeans",
+      "gender": "M",
+      "size": "32/30",
+      "colour": "Light Blue",
+      "style": "Skinny"
+    },
+    {
+      "orderDate": "Friday, January 13, 2017 2:33 AM",
+      "deliveryCountry": "Austria",
+      "manufacturer": "The Hipster Jeans Company",
+      "gender": "M",
+      "size": "34/30",
+      "colour": "Light Blue",
+      "style": "Skinny"
+    },
+    {
+      "orderDate": "Wednesday, February 22, 2017 3:15 PM",
+      "deliveryCountry": "France",
+      "manufacturer": "Wrangled Jeans",
+      "gender": "M",
+      "size": "30/30",
+      "colour": "Light Blue",
+      "style": "Skinny"
+    },
+    {
+      "orderDate": "Monday, May 2, 2016 7:14 PM",
+      "deliveryCountry": "France",
+      "manufacturer": "Denzil Jeans",
+      "gender": "F",
+      "size": 12,
+      "colour": "Light Blue",
+      "style": "Skinny"
+    },
+    {
+      "orderDate": "Wednesday, August 17, 2016 12:44 AM",
+      "deliveryCountry": "France",
+      "manufacturer": "Denzil Jeans",
+      "gender": "M",
+      "size": "28/30",
+      "colour": "Light Blue",
+      "style": "Boot Cut"
+    },
+    {
+      "orderDate": "Tuesday, February 14, 2017 3:24 AM",
+      "deliveryCountry": "United Kingdom",
+      "manufacturer": "The Hipster Jeans Company",
+      "gender": "F",
+      "size": 16,
+      "colour": "Dark Blue",
+      "style": "Skinny"
+    },
+    {
+      "orderDate": "Wednesday, August 24, 2016 7:53 PM",
+      "deliveryCountry": "United Kingdom",
+      "manufacturer": "Denzil Jeans",
+      "gender": "F",
+      "size": 10,
+      "colour": "Dark Blue",
+      "style": "Boot Cut"
+    },
+    {
+      "orderDate": "Thursday, August 25, 2016 10:11 PM",
+      "deliveryCountry": "Austria",
+      "manufacturer": "The Hipster Jeans Company",
+      "gender": "F",
+      "size": "14",
+      "colour": "Dark Blue",
+      "style": "Relaxed"
+    },
+    {
+      "orderDate": "Thursday, September 29, 2016 8:08 AM",
+      "deliveryCountry": "United Kingdom",
+      "manufacturer": "Wrangled Jeans",
+      "gender": "F",
+      "size": 8,
+      "colour": "Dark Blue",
+      "style": "Boot Cut"
+    },
+    {
+      "orderDate": "Sunday, January 17, 2016 7:19 AM",
+      "deliveryCountry": "United Kingdom",
+      "manufacturer": "The Hipster Jeans Company",
+      "gender": "F",
+      "size": 10,
+      "colour": "Dark Blue",
+      "style": "Boot Cut"
+    },
+    {
+      "orderDate": "Saturday, February 4, 2017 3:36 PM",
+      "deliveryCountry": "France",
+      "manufacturer": "Wrangled Jeans",
+      "gender": "F",
+      "size": 10,
+      "colour": "Dark Blue",
+      "style": "Boot Cut"
+    },
+    {
+      "orderDate": "Sunday, April 24, 2016 1:12 AM",
+      "deliveryCountry": "France",
+      "manufacturer": "Denzil Jeans",
+      "gender": "F",
+      "size": 14,
+      "colour": "Dark Blue",
+      "style": "Relaxed"
+    }
+  ],
+  "grouped": {
+    "Yellow": [
+      {
+        "country": "United Kingdom",
+        "sales": 2
+      },
+      {
+        "country": "France",
+        "sales": 2
+      }
+    ],
+    "Red": [
+      {
+        "country": "United Kingdom",
+        "sales": 2
+      },
+      {
+        "country": "Germany",
+        "sales": 1
+      }
+    ],
+    "Light Blue": [
+      {
+        "country": "France",
+        "sales": 3
+      },
+      {
+        "country": "Austria",
+        "sales": 2
+      },
+      {
+        "country": "United Kingdom",
+        "sales": 1
+      }
+    ],
+    "Dark Blue": [
+      {
+        "country": "United Kingdom",
+        "sales": 4
+      },
+      {
+        "country": "France",
+        "sales": 2
+      },
+      {
+        "country": "Austria",
+        "sales": 1
+      }
+    ]
+  },
+  "sortBy": "colour"
+}

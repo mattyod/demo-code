@@ -12,4 +12,8 @@ then
 
 Navigate browser to: ```http://127.0.0.1:7000/``` & click table headers to sort.
 
+## To run tests and lint
+
+```npm run test```
+
 Requires Node
